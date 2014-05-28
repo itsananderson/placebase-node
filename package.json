@@ -1,6 +1,6 @@
 {
   "name": "placebase",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node utility library for fetching images from placeholder sites",
   "main": "index.js",
   "scripts": {

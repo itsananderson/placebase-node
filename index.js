@@ -104,6 +104,6 @@ function download(size, options) {
 
 module.exports = {
     getSizes: getSizes,
-    downoadAll: downloadAll,
+    downloadAll: downloadAll,
     download: download
 };
