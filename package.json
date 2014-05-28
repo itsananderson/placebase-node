@@ -1,0 +1,28 @@
+{
+  "name": "placebase",
+  "version": "0.1.0",
+  "description": "Node utility library for fetching images from placeholder sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsananderson/placebase-node.git"
+  },
+  "keywords": [
+    "placeholder",
+    "download",
+    "library"
+  ],
+  "author": "Will Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsananderson/placebase-node/issues"
+  },
+  "homepage": "https://github.com/itsananderson/placebase-node",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "q": "^1.0.1"
+  }
+}
